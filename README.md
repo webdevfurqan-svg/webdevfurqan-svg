@@ -61,7 +61,7 @@ A complete website designed for a marriage hall business, providing a profession
 
 An AI-powered conversational application designed to interact with users through natural-language conversations.
 
-🚧 **Status:** In Development / Deployment Coming Soon
+🌐 **Live Demo:** [View Fuza AI Saas](https://fuza-ai-saas.vercel.app/login)
 
 * AI-powered responses
 * Interactive chat interface
@@ -90,8 +90,7 @@ An AI-agent project focused on creating an intelligent system capable of process
 ## 🏥 Doctor Appointment System
 
 **Full-Stack Appointment Management Application**
-
-🚧 **Status:** Deployment Coming Soon
+🌐 **Live Demo:** [View Doctor Appointment System](https://doctor-appointment-system-two-ecru.vercel.app/)
 
 A database-driven application designed to manage doctors, patients, and appointments through a structured backend system.
 
@@ -139,11 +138,11 @@ A banking-system project created to practice programming logic, account manageme
 
 ---
 
-## 🎟️ Coupon Code System
+## 🎟️FUZA Coupon Code System
 
 A coupon and discount management project focused on generating and validating promotional codes.
 
-🚧 **Status:** Deployment Coming Soon
+🌐 **Live Demo:** [View Fuza CouponCode](https://fuza-coupon-system.vercel.app/)
 
 * Coupon code generation
 * Coupon validation
@@ -211,25 +210,24 @@ A JavaScript-based utility that checks whether a word, phrase, or sequence reads
 
 ---
 
-## 📧 Temp Mail
+## 🔍 FuzaTrace — Lost & Found System
 
-A temporary email utility project created to explore API integration and asynchronous JavaScript operations.
+A web application designed to report, trace, and manage lost and found items efficiently.
 
-🚧 **Status:** Deployment Coming Soon
+🚀 **Status:** Live & Deployed
 
-* API integration
-* Temporary inbox functionality
-* Dynamic email retrieval
-* Asynchronous JavaScript
-* Responsive UI
-
+* **Live Demo:** [fuza-finds-lost-and-found.vercel.app](https://fuza-finds-lost-and-found.vercel.app/signup)
+* Interactive reporting and item tracking interface
+* Secure user authentication & signup management
+* Real-time lost and found item retrieval
+* Fully responsive UI for mobile and desktop access
 ---
 
 ## 🗳️ Voting Machine
 
 A voting-system project created to practice programming logic, user input handling, and result processing.
 
-🚧 **Status:** Deployment Coming Soon
+🌐 **Live Demo:** [View Voting Machine System](https://voting-machine-system.vercel.app/)
 
 * Voting functionality
 * Input validation
