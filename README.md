@@ -105,11 +105,12 @@ A database-driven application designed to manage doctors, patients, and appointm
 
 ---
 
-## 📋 Complaint Management System
+## 📋 FUZA Complaint Management System
 
 **Full-Stack Complaint Tracking & Management System**
 
-🚧 **Status:** Deployment Coming Soon
+🌐 **Live Demo:** [View FUZA Complaint Management System ](https://fuza-complaint-system.vercel.app/)
+
 
 A web-based system designed to digitally manage, organize, and track complaints through a structured workflow.
 
