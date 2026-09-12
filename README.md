@@ -71,19 +71,20 @@ An AI-powered conversational application designed to interact with users through
 * Foundation for more advanced AI applications
 
 ---
+## 📚 FUZA Book Store
 
-## 🧠 AI Agent
+**Full-Stack Digital Library Platform**
 
-An AI-agent project focused on creating an intelligent system capable of processing user requests and performing tasks through connected tools and APIs.
+🔗 **GitHub:** [fuza-book-store](https://github.com/webdevfurqan-svg/fuza-book-store)  
+🌐 **Live Demo:** [fuza-book-store.vercel.app](https://fuza-book-store.vercel.app/)
 
-🚧 **Status:** In Development / Deployment Coming Soon
+A modern digital library application designed for browsing, searching, and downloading digital e-books with administrative control.
 
-* AI-powered task processing
-* API integration
-* Tool-based workflows
-* Automated responses
-* Backend integration
-* Agent-style AI workflows
+* **Tech Stack:** Node.js, Express.js, EJS, MongoDB Atlas, Cloudinary, Vercel
+* Direct browser-to-Cloudinary media and PDF uploads bypassing serverless payload limits
+* Dynamic book search and real-time download tracking
+* Persistent admin session management via `connect-mongo` and `express-session`
+* Responsive Slate & Emerald dark-mode UI
 
 ---
 
